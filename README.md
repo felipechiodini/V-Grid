@@ -1,24 +1,10 @@
-# vuegrid
+## V-Grid
+V-Grid é um puglin feito em VUE baseado no JqGrid.
 
-## Project setup
+## Demo
+[Demo](google.com)
+## Documentação
 ```
-npm install
+import VGrid from './components/V-Grid.vue'
+<v-grid :dataGrid="dataGridExample"></v-grid>
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
